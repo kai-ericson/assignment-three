@@ -1,4 +1,4 @@
 function changeText(){
-    document.getElementById("Header").innerHTML="Goodbye World!";
+    document.querySelector("#Header").innerHTML = "Goodbye World!"
 }
 
